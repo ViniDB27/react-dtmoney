@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "id": 1,
+      "id": "1",
       "description": "Desenvolviemnto de site",
       "type": "income",
       "category": "venda",
@@ -9,7 +9,7 @@
       "createdAt": "2025-02-28T16:28:00.505Z"
     },
     {
-      "id": 2,
+      "id": "2",
       "description": "Hamburger",
       "type": "outcome",
       "category": "alimentação",
@@ -17,12 +17,28 @@
       "createdAt": "2025-02-28T13:28:00.505Z"
     },
     {
-      "id": 3,
+      "id": "3",
       "description": "Notebook Asus",
       "type": "outcome",
       "category": "eletrônicos",
       "price": 5000,
       "createdAt": "2025-03-05T13:28:00.505Z"
+    },
+    {
+      "id": "5c8a",
+      "description": "Dev App",
+      "price": 30000,
+      "category": "Work",
+      "type": "income",
+      "createdAt": "2025-04-10T21:08:45.656Z"
+    },
+    {
+      "id": "bb2f",
+      "description": "Pastel",
+      "price": 5,
+      "category": "Comida",
+      "type": "outcome",
+      "createdAt": "2025-04-10T21:17:12.294Z"
     }
   ]
 }
